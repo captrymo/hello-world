@@ -1,2 +1,3 @@
 # hello-world
-My fits repository as I learn how to code
+My first repository as I learn how to code
+blah blah blah
